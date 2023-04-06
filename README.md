@@ -38,7 +38,6 @@
 [Subindo Wordpress com Docker Compose](https://gist.github.com/joaovictorino/38f19f0ef469271704eb328487f9e0d4)   
 [Usando Docker Compose na aplicação](https://gist.github.com/joaovictorino/31fa70ad3010fb01f6fb23dc48c95848)   
 
-
 ## Aula 03
 
 ## Aula 04
