@@ -25,7 +25,7 @@
 ## Aula 02
 [Vamos criar nossa primeira imagem](https://gist.github.com/joaovictorino/2ee531bb9e7a36938f3ca794af8bd806)   
 [ENTRYPOINT e CMD na execução](https://gist.github.com/joaovictorino/a4fef50a88db6d9db17e3a20f88b92c5)   
-[Entrypoint e CMD na herança](https://gist.github.com/joaovictorino/71f19d17bcf616e6fe04e39595d2ca89)
+[Entrypoint e CMD na herança](https://gist.github.com/joaovictorino/71f19d17bcf616e6fe04e39595d2ca89)   
 [Entendendo ARG e ENV](https://gist.github.com/joaovictorino/c63171e205e57b2339e051d8e0209a02)   
 [Subindo a imagem no Docker Hub](https://gist.github.com/joaovictorino/6343d11cdb0a7ed79068c8b930c19805)   
 [Criando imagem voting-app](https://gist.github.com/joaovictorino/dce835681c9425b26559942d9518e336)   
