@@ -68,3 +68,7 @@
 [Criando um Job](https://gist.github.com/joaovictorino/d8d386553517cf025d067935aa277698)   
 
 ## Aula 04
+[Subindo as imagens para o Docker Hub](https://gist.github.com/joaovictorino/a61d0596fab84ebf7cf8358609cf3514)   
+[Subindo fila e banco no Kubernetes](https://gist.github.com/joaovictorino/41b9c7995ddcb7ef3fa6b7ce333fbec7)   
+[Subindo aplicação no Kubernetes](https://gist.github.com/joaovictorino/63ad8d869aecb5aca21330d4660956ca)   
+[Subindo outra aplicação no Kubernetes](https://gist.github.com/joaovictorino/af9ba480acc459e7685cb364a87a606f)   
