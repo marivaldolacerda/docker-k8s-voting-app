@@ -1,4 +1,4 @@
-# Docker & Kubernetes Lab
+# Docker & Kubernetes
 
 ## Instalação Docker, Kubernetes e VSCode
 [VSCode no Windows](https://www.youtube.com/watch?v=57iaJtuKL_I)   
@@ -8,6 +8,10 @@
 # Docker
 ## Docker Online
 [Playground](https://labs.play-with-docker.com/)   
+
+# Kubernetes
+## Kubernetes Online
+[Playground](https://labs.play-with-k8s.com/)   
 
 ## Aula 01
 [Rode seu primeiro contêiner](https://gist.github.com/joaovictorino/189b7afae55f44564ebef9eb9bee7730)   
@@ -39,6 +43,28 @@
 [Usando Docker Compose na aplicação](https://gist.github.com/joaovictorino/31fa70ad3010fb01f6fb23dc48c95848)   
 
 ## Aula 03
+[Verificando a instalação do k8s](https://gist.github.com/joaovictorino/e8b422eb0dc5124e10d6276759fa8e48)   
+[Rode seu primeiro pod pelo terminal](https://gist.github.com/joaovictorino/6b437968a8e920a21e33c386417f0def)   
+[Trabalhando com IaC no kubectl](https://gist.github.com/joaovictorino/1ed45b988fddbcc1688b42addb7bbb34)   
+[Testando a idempotência](https://gist.github.com/joaovictorino/6443e1cb8f292e351100c5bb5111030a)   
+[Analisando logs e eventos](https://gist.github.com/joaovictorino/3457fe929d95fd52bea0038b7657060b)   
+[Criando um serviço do tipo ClusterIP](https://gist.github.com/joaovictorino/ff5282a1a04f46d29843d95a4d604783)   
+[Criando um serviço do tipo NodePort](https://gist.github.com/joaovictorino/11735e9b6a8bda21f0aa85da103565a7)   
+[Criando um serviço do tipo Ingress](https://gist.github.com/joaovictorino/ec99b17cbb4d4c412f0d10e0ce041b26)   
+[Criando um ReplicaSet](https://gist.github.com/joaovictorino/0fce6038ecaeb58250a1eccdf4bec153)   
+[Criando um Deployment](https://gist.github.com/joaovictorino/a3f9ebbda511a06994ea4bd1e77a932d)   
+[Entendendo imutabilidade](https://gist.github.com/joaovictorino/35d4f6b497b8715d3894cb193a779586)   
+[Algoritmos de implantação](https://gist.github.com/joaovictorino/d1a8e1a5ff0c7970acef354563e92fbc)   
+[Testando a implantação canário](https://gist.github.com/joaovictorino/646fa8e07e25d5b8db3b7520098197c5)   
+[Entendendo o versionamento do deploy](https://gist.github.com/joaovictorino/e9df14fa7364537976deeddbc2878620)   
+[Escalando os pods do Deployment](https://gist.github.com/joaovictorino/8ad9248a1039106f2fe2d532f64c2bc2)   
+[Trabalhando com HPA](https://gist.github.com/joaovictorino/0ffa240dcf84a3c0b680bab6d4573fe7)   
+[Usando volumes](https://gist.github.com/joaovictorino/004a1dad447d8b79ad24fd96a056e348)   
+[Criando um StatefulSet](https://gist.github.com/joaovictorino/8c8e41822802a0f908e979e78b85b002)   
+[Criando Namespaces](https://gist.github.com/joaovictorino/c1cbaba580794402f676b115cf499626)   
+[Criando um ConfigMap](https://gist.github.com/joaovictorino/897aa460bd79b016dd63cf889f32cf50)   
+[Criando um Secret](https://gist.github.com/joaovictorino/a7a5f2857dd58f7a4fdf23097d26b8d5)   
+[Criando um CronJob](https://gist.github.com/joaovictorino/32720c0e03e2db5a176d8d65771da4cc)   
+[Criando um Job](https://gist.github.com/joaovictorino/d8d386553517cf025d067935aa277698)   
 
 ## Aula 04
-
